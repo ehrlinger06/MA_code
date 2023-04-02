@@ -1,0 +1,477 @@
+{
+    "ied_substation": {
+        "SubStation_4": [
+            "IED_Load_4",
+            "IED_SGen_4",
+            "IED_Switch_4"
+        ],
+        "SubStation_5": [
+            "IED_Load_5",
+            "IED_SGen_5",
+            "IED_Switch_5"
+        ],
+        "SubStation_6": [
+            "IED_Load_6",
+            "IED_SGen_6",
+            "IED_Switch_6"
+        ],
+        "SubStation_7": [
+            "IED_Load_7",
+            "IED_SGen_7",
+            "IED_Switch_7"
+        ],
+        "SubStation_8": [
+            "IED_Load_8",
+            "IED_SGen_8",
+            "IED_Switch_8"
+        ],
+        "SubStation_9": [
+            "IED_Load_9",
+            "IED_SGen_9",
+            "IED_Switch_9"
+        ],
+        "SubStation_10": [
+            "IED_Load_10",
+            "IED_SGen_10",
+            "IED_Switch_10"
+        ],
+        "SubStation_11": [
+            "IED_Load_11",
+            "IED_SGen_11",
+            "IED_Switch_11"
+        ],
+        "SubStation_12": [
+            "IED_Load_12",
+            "IED_SGen_12",
+            "IED_Switch_12"
+        ],
+        "SubStation_13": [
+            "IED_Load_13",
+            "IED_SGen_13",
+            "IED_Switch_13"
+        ],
+        "SubStation_14": [
+            "IED_SGen_14",
+            "IED_Switch_14"
+        ],
+        "SubStation_15": [
+            "IED_Load_15",
+            "IED_SGen_15",
+            "IED_Switch_15"
+        ],
+        "SubStation_16": [
+            "IED_Load_16",
+            "IED_SGen_16",
+            "IED_Switch_16"
+        ],
+        "SubStation_17": [
+            "IED_Load_17",
+            "IED_SGen_17",
+            "IED_Switch_17"
+        ],
+        "SubStation_18": [
+            "IED_Load_18",
+            "IED_SGen_18",
+            "IED_Switch_18"
+        ],
+        "SubStation_19": [
+            "IED_Load_19",
+            "IED_SGen_19",
+            "IED_Switch_19"
+        ],
+        "SubStation_20": [
+            "IED_Load_20",
+            "IED_SGen_20",
+            "IED_Switch_20"
+        ],
+        "SubStation_21": [
+            "IED_Load_21",
+            "IED_SGen_21",
+            "IED_Switch_21"
+        ],
+        "SubStation_22": [
+            "IED_Load_22",
+            "IED_SGen_22",
+            "IED_Switch_22"
+        ],
+        "SubStation_23": [
+            "IED_Load_23",
+            "IED_SGen_23",
+            "IED_Switch_23"
+        ],
+        "SubStation_24": [
+            "IED_Load_24",
+            "IED_SGen_24",
+            "IED_Switch_24"
+        ],
+        "SubStation_25": [
+            "IED_Load_25",
+            "IED_SGen_25",
+            "IED_Switch_25"
+        ],
+        "SubStation_26": [
+            "IED_Load_26",
+            "IED_SGen_26.1",
+            "IED_SGen_26.2",
+            "IED_Switch_26"
+        ],
+        "SubStation_27": [
+            "IED_Load_27",
+            "IED_SGen_27",
+            "IED_Switch_27"
+        ],
+        "SubStation_28": [
+            "IED_Load_28",
+            "IED_SGen_28.1",
+            "IED_SGen_28.2",
+            "IED_Switch_28"
+        ],
+        "SubStation_29": [
+            "IED_Load_29",
+            "IED_SGen_29",
+            "IED_Switch_29"
+        ],
+        "SubStation_30": [
+            "IED_Load_30",
+            "IED_SGen_30",
+            "IED_Switch_30"
+        ],
+        "SubStation_31": [
+            "IED_Load_31",
+            "IED_SGen_31",
+            "IED_Switch_31"
+        ],
+        "SubStation_32": [
+            "IED_Load_32",
+            "IED_SGen_32",
+            "IED_Switch_32"
+        ],
+        "SubStation_33": [
+            "IED_Load_33",
+            "IED_SGen_33",
+            "IED_Switch_33"
+        ],
+        "SubStation_34": [
+            "IED_Load_34",
+            "IED_SGen_34",
+            "IED_Switch_34"
+        ],
+        "SubStation_35": [
+            "IED_Load_35",
+            "IED_SGen_35",
+            "IED_Switch_35"
+        ],
+        "SubStation_36": [
+            "IED_Load_36",
+            "IED_SGen_36",
+            "IED_Switch_36"
+        ],
+        "SubStation_37": [
+            "IED_Load_37",
+            "IED_SGen_37",
+            "IED_Switch_37"
+        ],
+        "SubStation_38": [
+            "IED_Load_38",
+            "IED_SGen_38",
+            "IED_Switch_38"
+        ],
+        "SubStation_39": [
+            "IED_Load_39",
+            "IED_SGen_39",
+            "IED_Switch_39"
+        ],
+        "SubStation_40": [
+            "IED_Load_40",
+            "IED_SGen_40",
+            "IED_Switch_40"
+        ],
+        "SubStation_41": [
+            "IED_Load_41",
+            "IED_SGen_41.1",
+            "IED_SGen_41.2",
+            "IED_Switch_41"
+        ],
+        "SubStation_42": [
+            "IED_Load_42",
+            "IED_SGen_42",
+            "IED_Switch_42"
+        ],
+        "SubStation_43": [
+            "IED_Load_43",
+            "IED_SGen_43",
+            "IED_Switch_43"
+        ],
+        "SubStation_44": [
+            "IED_Load_44",
+            "IED_SGen_44.1",
+            "IED_SGen_44.2",
+            "IED_Switch_44"
+        ],
+        "SubStation_45": [
+            "IED_Load_45",
+            "IED_SGen_45",
+            "IED_Switch_45"
+        ],
+        "SubStation_46": [
+            "IED_Load_46",
+            "IED_SGen_46.1",
+            "IED_SGen_46.2",
+            "IED_Switch_46"
+        ],
+        "SubStation_47": [
+            "IED_Load_47",
+            "IED_SGen_47",
+            "IED_Switch_47"
+        ],
+        "SubStation_48": [
+            "IED_Load_48",
+            "IED_SGen_48",
+            "IED_Switch_48"
+        ],
+        "SubStation_49": [
+            "IED_Load_49",
+            "IED_SGen_49.1",
+            "IED_SGen_49.2",
+            "IED_Switch_49"
+        ],
+        "SubStation_50": [
+            "IED_Load_50",
+            "IED_SGen_50",
+            "IED_Switch_50"
+        ],
+        "SubStation_51": [
+            "IED_Load_51",
+            "IED_SGen_51",
+            "IED_Switch_51"
+        ],
+        "SubStation_52": [
+            "IED_Load_52",
+            "IED_SGen_52",
+            "IED_Switch_52"
+        ],
+        "SubStation_53": [
+            "IED_Load_53",
+            "IED_SGen_53",
+            "IED_Switch_53"
+        ],
+        "SubStation_54": [
+            "IED_Load_54",
+            "IED_SGen_54",
+            "IED_Switch_54"
+        ],
+        "SubStation_55": [
+            "IED_Load_55",
+            "IED_SGen_55",
+            "IED_Switch_55"
+        ],
+        "SubStation_56": [
+            "IED_Load_56",
+            "IED_SGen_56",
+            "IED_Switch_56"
+        ],
+        "SubStation_57": [
+            "IED_Load_57",
+            "IED_SGen_57",
+            "IED_Switch_57"
+        ],
+        "SubStation_58": [
+            "IED_Load_58",
+            "IED_SGen_58",
+            "IED_Switch_58"
+        ],
+        "SubStation_59": [
+            "IED_Load_59",
+            "IED_SGen_59.1",
+            "IED_SGen_59.2",
+            "IED_Switch_59"
+        ],
+        "SubStation_60": [
+            "IED_Load_60",
+            "IED_SGen_60",
+            "IED_Switch_60"
+        ],
+        "SubStation_61": [
+            "IED_Load_61",
+            "IED_SGen_61.1",
+            "IED_SGen_61.2",
+            "IED_Switch_61"
+        ],
+        "SubStation_62": [
+            "IED_Load_62",
+            "IED_SGen_62",
+            "IED_Switch_62"
+        ],
+        "SubStation_63": [
+            "IED_Load_63",
+            "IED_SGen_63",
+            "IED_Switch_63"
+        ],
+        "SubStation_64": [
+            "IED_Load_64",
+            "IED_SGen_64",
+            "IED_Switch_64"
+        ],
+        "SubStation_65": [
+            "IED_Load_65",
+            "IED_SGen_65",
+            "IED_Switch_65"
+        ],
+        "SubStation_66": [
+            "IED_Load_66",
+            "IED_SGen_66",
+            "IED_Switch_66"
+        ],
+        "SubStation_67": [
+            "IED_Load_67",
+            "IED_SGen_67",
+            "IED_Switch_67"
+        ],
+        "SubStation_68": [
+            "IED_Load_68",
+            "IED_SGen_68",
+            "IED_Switch_68"
+        ],
+        "SubStation_69": [
+            "IED_SGen_69",
+            "IED_Switch_69",
+            "IED_ICT_69"
+        ],
+        "SubStation_70": [
+            "IED_Load_70",
+            "IED_SGen_70",
+            "IED_Switch_70"
+        ],
+        "SubStation_71": [
+            "IED_Load_71",
+            "IED_SGen_71",
+            "IED_Switch_71"
+        ],
+        "SubStation_72": [
+            "IED_Load_72",
+            "IED_SGen_72",
+            "IED_Switch_72"
+        ],
+        "SubStation_73": [
+            "IED_Load_73",
+            "IED_SGen_73",
+            "IED_Switch_73"
+        ],
+        "SubStation_74": [
+            "IED_Load_74",
+            "IED_SGen_74",
+            "IED_Switch_74"
+        ],
+        "SubStation_75": [
+            "IED_Load_75",
+            "IED_SGen_75",
+            "IED_Switch_75"
+        ],
+        "SubStation_76": [
+            "IED_Load_76",
+            "IED_SGen_76",
+            "IED_Switch_76"
+        ],
+        "SubStation_77": [
+            "IED_Load_77",
+            "IED_SGen_77",
+            "IED_Switch_77"
+        ],
+        "SubStation_78": [
+            "IED_Load_78",
+            "IED_SGen_78",
+            "IED_Switch_78"
+        ],
+        "SubStation_79": [
+            "IED_Load_79",
+            "IED_SGen_79",
+            "IED_Switch_79"
+        ],
+        "SubStation_80": [
+            "IED_Load_80",
+            "IED_SGen_80",
+            "IED_Switch_80"
+        ],
+        "SubStation_81": [
+            "IED_Load_81",
+            "IED_SGen_81",
+            "IED_Switch_81"
+        ],
+        "SubStation_82": [
+            "IED_Load_82",
+            "IED_SGen_82",
+            "IED_Switch_82"
+        ],
+        "SubStation_83": [
+            "IED_Load_83",
+            "IED_SGen_83",
+            "IED_Switch_83"
+        ],
+        "SubStation_84": [
+            "IED_Load_84",
+            "IED_SGen_84",
+            "IED_Switch_84"
+        ],
+        "SubStation_85": [
+            "IED_Load_85",
+            "IED_SGen_85",
+            "IED_Switch_85"
+        ],
+        "SubStation_86": [
+            "IED_Load_86",
+            "IED_SGen_86",
+            "IED_Switch_86"
+        ],
+        "SubStation_87": [
+            "IED_Load_87",
+            "IED_SGen_87",
+            "IED_Switch_87"
+        ],
+        "SubStation_88": [
+            "IED_Load_88",
+            "IED_SGen_88",
+            "IED_Switch_88"
+        ],
+        "SubStation_89": [
+            "IED_Load_89",
+            "IED_SGen_89",
+            "IED_Switch_89"
+        ],
+        "SubStation_90": [
+            "IED_Load_90",
+            "IED_SGen_90",
+            "IED_Switch_90"
+        ],
+        "SubStation_91": [
+            "IED_Load_91",
+            "IED_SGen_91",
+            "IED_Switch_91"
+        ],
+        "SubStation_92": [
+            "IED_Load_92",
+            "IED_SGen_92",
+            "IED_Switch_92"
+        ],
+        "SubStation_93": [
+            "IED_Load_93",
+            "IED_SGen_93",
+            "IED_Switch_93"
+        ],
+        "SubStation_94": [
+            "IED_Load_94",
+            "IED_SGen_94",
+            "IED_Switch_94",
+            "IED_ICT_94"
+        ],
+        "SubStation_95": [
+            "IED_Load_95",
+            "IED_SGen_95",
+            "IED_Switch_95"
+        ],
+        "SubStation_96": [
+            "IED_Load_96",
+            "IED_SGen_96",
+            "IED_Switch_96"
+        ]
+    }
+}

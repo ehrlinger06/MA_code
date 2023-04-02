@@ -1,0 +1,22 @@
+{
+	"link_states": {
+		"1": [0, 1],
+		"2": [0, 1],
+		"3": [0, 1]
+	},
+	"activeNodes": {
+		"innerNode1": {
+			"active": "true"
+		},
+		"innerNode2": {
+			"active": "true"
+		},
+		"innerNode3": {
+			"active": "true"
+		}
+	},
+	"staticDelays": {
+		"innerNode-SubStation": 0,
+		"SubStation-IED": 0
+	}
+}

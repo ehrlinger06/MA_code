@@ -1,0 +1,48 @@
+{
+    "BaseStation_Substation": {
+		"BaseStation1": [
+			"SubStation_1",
+            "SubStation_2",
+            "SubStation_3",
+            "SubStation_8",
+            "SubStation_12",
+            "SubStation_13"
+        ],
+		"BaseStation2": [
+			"SubStation_3",
+			"SubStation_4",
+			"SubStation_5",
+			"SubStation_9",
+			"SubStation_10",
+			"SubStation_11"
+        ],
+		"BaseStation3": [
+			"SubStation_6",
+			"SubStation_7",
+			"SubStation_8",
+            "SubStation_9",
+            "SubStation_13",
+            "SubStation_14"
+        ]
+    },
+
+    "BaseStation_BaseStation": {
+        "link1": [
+            "BaseStation1",
+            "BaseStation2"
+        ],
+		 "link2": [
+            "BaseStation1",
+            "BaseStation3"
+        ],
+		"link3": [
+            "BaseStation2",
+            "BaseStation3"
+        ]
+    },
+    "BaseStation_Bus": {
+        "BaseStation1": 13,
+		"BaseStation2": 9,
+		"BaseStation3": 8
+    }
+}

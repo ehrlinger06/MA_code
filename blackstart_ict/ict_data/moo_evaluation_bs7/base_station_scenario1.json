@@ -1,0 +1,74 @@
+{
+    "BaseStation_Substation": {
+		"BaseStation1": [
+			"SubStation_1",
+            "SubStation_2",
+            "SubStation_3"
+        ],
+		"BaseStation2": [
+			"SubStation_3",
+			"SubStation_4",
+			"SubStation_11"
+        ],
+		"BaseStation3": [
+			"SubStation_5",
+            "SubStation_10"
+        ],
+		"BaseStation4": [
+			"SubStation_6",
+            "SubStation_7"
+        ],
+		"BaseStation5": [
+			"SubStation_7",
+			"SubStation_8",
+            "SubStation_9",
+			"SubStation_14"
+        ],
+		"BaseStation6": [
+			"SubStation_9",
+			"SubStation_10",
+            "SubStation_11"
+        ],
+		"BaseStation7": [
+			"SubStation_12",
+			"SubStation_13",
+			"SubStation_14"
+        ]
+    },
+
+    "BaseStation_BaseStation": {
+        "link1": [
+            "BaseStation1",
+            "BaseStation2"
+        ],
+		 "link2": [
+            "BaseStation2",
+            "BaseStation6"
+        ],
+		"link3": [
+            "BaseStation3",
+            "BaseStation6"
+        ],
+		"link4": [
+            "BaseStation4",
+            "BaseStation5"
+        ],
+		"link5": [
+            "BaseStation5",
+            "BaseStation6"
+        ],
+		"link6": [
+            "BaseStation5",
+            "BaseStation7"
+        ]
+    },
+    "BaseStation_Bus": {
+        "BaseStation1": 3,
+		"BaseStation2": 11,
+		"BaseStation3": 10,
+		"BaseStation4": 7,
+		"BaseStation5": 8,
+		"BaseStation6": 9,
+		"BaseStation7": 14
+    }
+}
